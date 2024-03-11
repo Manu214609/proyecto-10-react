@@ -1,6 +1,5 @@
 import React from "react";
-import PropTypes from "prop-types"
-const NavBar = (props) => {
+const NavBar = () => {
     return(
         <nav className="nav navbar bg-secondary">
             <div className="container">
